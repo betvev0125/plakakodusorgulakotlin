@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlakaSorgula</string>
+    <string name="spplaka">Şehir Plaka Kodu Giriniz</string>
+    <string name="bul">Bul</string>
+    <string name="sonuc">Şehir İsmi</string>
+    <string name="uyari">Yazacağınız Plakanın Başında Lütfen 0 Koymadan Yazınız!</string>
+</resources>
